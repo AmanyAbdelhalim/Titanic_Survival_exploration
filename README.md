@@ -9,7 +9,9 @@ The goal of this machine learning project is to create decision functions that a
 
 ### Achievements
 •	Create decision functions that attempted to predict survival outcomes from the 1912 Titanic disaster based on  passenger’s features, such as sex and age, number of siblings and class of his ticket.
+
 •	Implemented a simple algorithm that performs the prediction.
+
 •	Increased the algorithm's complexity until you I was able to accurately predict the outcomes more than 80% of the passengers in the provided data.
 
 
